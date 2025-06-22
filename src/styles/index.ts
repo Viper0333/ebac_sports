@@ -1,10 +1,10 @@
 import { createGlobalStyle } from 'styled-components'
 
 export const cores = {
-  corTexto: '#121714',
-  corFundo: '#eee',
-  corPrincipal: '#0c2461',
-  corSecundaria: '#4a69bd'
+  corTexto: '#eee',
+  corFundo: '#121714',
+  corPrincipal: '#065a60',
+  corSecundaria: '#465a0f'
 }
 
 export const GlobalStyle = createGlobalStyle`

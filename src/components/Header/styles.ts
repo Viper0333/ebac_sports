@@ -16,22 +16,14 @@ export const Header = styled.header`
   h1 {
     font-size: 18px;
     flex: 1;
-    font-style: italic;
-    color: ${cores.corFundo};
   }
 
   div {
     display: flex;
     align-items: center;
-
     img {
       width: 18px;
       margin-right: 8px;
-      margin-left: 16px;
-    }
-
-    span {
-      color: ${cores.corFundo};
     }
   }
 

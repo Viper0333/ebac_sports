@@ -4,9 +4,7 @@ import { cores } from '../../styles'
 
 export const Produto = styled.div``
 
-export const Titulo = styled.h3`
-  min-height: 64px;
-`
+export const Titulo = styled.h3``
 
 export const Capa = styled.div`
   position: relative;
@@ -76,7 +74,6 @@ export const BtnComprar = styled.button`
   border: none;
   cursor: pointer;
   border-radius: 4px;
-  margin-bottom: 8px;
 
   &:hover {
     background-image: linear-gradient(
